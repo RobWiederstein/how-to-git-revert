@@ -1,2 +1,1 @@
-after <- 1
-print(after)
+1
